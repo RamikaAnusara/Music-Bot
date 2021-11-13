@@ -62,4 +62,4 @@ An Test Music Bot Files
 # Credits
 #Tomato#6966
 
-> If consider using this Bot, make sure to credit me!
+> If consider using this Bot, make sure to credit Tomato#6966!
